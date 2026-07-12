@@ -4,6 +4,8 @@
 
 # Run and deploy your AI Studio app
 
+🚀 **Live Deployment:** [https://transitops-l5nq.onrender.com](https://transitops-l5nq.onrender.com)
+
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/a772d8e2-c66a-46e2-8e1c-0b52bebf7c5b
